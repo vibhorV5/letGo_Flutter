@@ -1,6 +1,6 @@
 # let_go_app
 
- • letGo is a Meditation themed demo app using Flutter <br />
+ • letGo is a Meditation themed demo app built using Flutter <br />
  • UI integrated using Flutter, Figma and Adobe Illustrator <br />
  • Implemented Audio Player with playback functions such as Pause, Play, Repeat and Slider using audioplayers package <br />
 
